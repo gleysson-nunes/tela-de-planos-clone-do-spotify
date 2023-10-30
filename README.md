@@ -8,7 +8,6 @@
 Conceitos abordados: mobile first (design 100% responsivo) e display-flex.
 
 # Tecnologias Utilizadas
-
 * HTML
 * CSS
 
