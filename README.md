@@ -5,7 +5,7 @@
 # O Projeto
 
 "Tela de Planos Clone do Spotify" é o meu novo projeto web.<br>
-Conceitos abordados: mobile first (desing 100% responsivo) e display-flex.
+Conceitos abordados: mobile first (design 100% responsivo) e display-flex.
 
 # Tecnologias Utilizadas
 
